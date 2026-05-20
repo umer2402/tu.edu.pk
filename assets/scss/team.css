@@ -101,4 +101,42 @@
 
 .team-member-img .social-profile li:nth-child(3) {
   transition: 0.6s;
-}/*# sourceMappingURL=team.css.map */
+}
+
+.islah-team-row > div {
+  display: flex;
+}
+
+.team-member.islah-member {
+  width: 100%;
+  height: calc(100% - 30px);
+  display: flex;
+  flex-direction: column;
+}
+
+.team-member.islah-member .team-member-img img {
+  width: 100%;
+  aspect-ratio: 4/5;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center top;
+     object-position: center top;
+}
+
+.team-member.islah-member .team-member-info h4 {
+  font-size: 22px;
+  line-height: 1.35;
+  min-height: 60px;
+}
+
+.team-member.islah-member .team-member-info p {
+  min-height: 52px;
+  line-height: 1.6;
+}
+
+@media only screen and (max-width: 1399px) {
+  .team-member.islah-member .team-member-info h4 {
+    font-size: 20px;
+  }
+}
+/*# sourceMappingURL=team.css.map */

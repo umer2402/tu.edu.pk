@@ -464,73 +464,64 @@ include "header.php";
                 <div class="row">
                     <div class="col-md-12">
                         <div class="section-title style1 text-center mb-40">
-                            <span>Make Communication</span>
-                            <h2>Our Team Member</h2>
+                            <span>ISLAH Consortium</span>
+                            <h2>Partner Vice Chancellors</h2>
                         </div>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-lg-3 col-md-6 col-sm-6">
-                        <div class="team-member">
+                <div class="row justify-content-center islah-team-row">
+                    <div class="col-lg col-md-6 col-sm-6">
+                        <div class="team-member islah-member">
                             <div class="team-member-img">
-                                <img src="assets/img/team/team-member-1.jpg" alt="Image">
-                                <ul class="social-profile style1">
-                                    <li><a target="_blank" href="https://facebook.com"><i class="ri-facebook-fill"></i> </a></li>
-                                    <li><a target="_blank" href="https://linkedin.com"> <i class="ri-linkedin-fill"></i> </a></li>
-                                    <li><a target="_blank" href="https://twitter.com"> <i class="ri-twitter-fill"></i> </a></li>
-                                </ul>
+                                <img src="assets/images/islah-consortium/dr-saeed-ahmad.jpg" alt="Dr. Saeed Ahmad">
                             </div>
                             <div class="team-member-info">
-                                <h4>Tony Stark</h4>
-                                <p>Founder & CEO</p>
+                                <h4>Dr. Saeed Ahmad</h4>
+                                <p>Vice Chancellor<br>Thal University Bhakkar</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6">
-                        <div class="team-member">
+                    <div class="col-lg col-md-6 col-sm-6">
+                        <div class="team-member islah-member">
                             <div class="team-member-img">
-                                <img src="assets/img/team/team-member-2.jpg" alt="Image">
-                                <ul class="social-profile style1">
-                                    <li><a target="_blank" href="https://facebook.com"><i class="ri-facebook-fill"></i> </a></li>
-                                    <li><a target="_blank" href="https://linkedin.com"> <i class="ri-linkedin-fill"></i> </a></li>
-                                    <li><a target="_blank" href="https://twitter.com"> <i class="ri-twitter-fill"></i> </a></li>
-                                </ul>
+                                <img src="assets/images/islah-consortium/dr-yasir-nawab.jpg" alt="Dr. Yasir Nawab">
                             </div>
                             <div class="team-member-info">
-                                <h4>Mark Toen</h4>
-                                <p>Co-Founder</p>
+                                <h4>Dr. Yasir Nawab</h4>
+                                <p>Vice Chancellor<br>University of Kamalia</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6">
-                        <div class="team-member">
+                    <div class="col-lg col-md-6 col-sm-6">
+                        <div class="team-member islah-member">
                             <div class="team-member-img">
-                                <img src="assets/img/team/team-member-3.jpg" alt="Image">
-                                <ul class="social-profile style1">
-                                    <li><a target="_blank" href="https://facebook.com"><i class="ri-facebook-fill"></i> </a></li>
-                                    <li><a target="_blank" href="https://linkedin.com"> <i class="ri-linkedin-fill"></i> </a></li>
-                                    <li><a target="_blank" href="https://twitter.com"> <i class="ri-twitter-fill"></i> </a></li>
-                                </ul>
+                                <img src="assets/images/islah-consortium/dr-ashfaq-ahmad-chattha.jpeg" alt="Dr. Ashfaq Ahmad Chattha">
                             </div>
                             <div class="team-member-info">
-                                <h4>Phil Heath</h4>
-                                <p>Vice President</p>
+                                <h4>Dr. Ashfaq Ahmad Chattha</h4>
+                                <p>Vice Chancellor<br>Ghazi University Dera Ghazi Khan</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-6 col-sm-6">
-                        <div class="team-member">
+                    <div class="col-lg col-md-6 col-sm-6">
+                        <div class="team-member islah-member">
                             <div class="team-member-img">
-                                <img src="assets/img/team/team-member-4.jpg" alt="Image">
-                                <ul class="social-profile style1">
-                                    <li><a target="_blank" href="https://facebook.com"><i class="ri-facebook-fill"></i> </a></li>
-                                    <li><a target="_blank" href="https://linkedin.com"> <i class="ri-linkedin-fill"></i> </a></li>
-                                    <li><a target="_blank" href="https://twitter.com"> <i class="ri-twitter-fill"></i> </a></li>
-                                </ul>
+                                <img src="assets/images/islah-consortium/dr-aqif-anwar.jpg" alt="Dr. Aqif Anwar">
                             </div>
                             <div class="team-member-info">
-                                <h4>Jhon Doe</h4>
-                                <p>Instructor</p>
+                                <h4>Dr. Aqif Anwar</h4>
+                                <p>Vice Chancellor<br>University of Education Lahore</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg col-md-6 col-sm-6">
+                        <div class="team-member islah-member">
+                            <div class="team-member-img">
+                                <img src="assets/images/islah-consortium/dr-muhammad-omer-chaudhary.jpg" alt="Dr. Muhammad Omer Chaudhary">
+                            </div>
+                            <div class="team-member-info">
+                                <h4>Dr. Muhammad Omer Chaudhary</h4>
+                                <p>Vice Chancellor<br>Government College University Lahore</p>
                             </div>
                         </div>
                     </div>

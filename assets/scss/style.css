@@ -6396,6 +6396,50 @@ textarea:-ms-input-placeholder {
   transition: 0.6s;
 }
 
+.islah-team-row > div {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.team-member.islah-member {
+  width: 100%;
+  height: calc(100% - 30px);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.team-member.islah-member .team-member-img img {
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center top;
+     object-position: center top;
+}
+
+.team-member.islah-member .team-member-info h4 {
+  font-size: 22px;
+  line-height: 1.35;
+  min-height: 60px;
+}
+
+.team-member.islah-member .team-member-info p {
+  min-height: 52px;
+  line-height: 1.6;
+}
+
+@media only screen and (max-width: 1399px) {
+  .team-member.islah-member .team-member-info h4 {
+    font-size: 20px;
+  }
+}
+
 .header-wrap .header-top .header-top-left, .course-card.style1 .course-metainfo .course-metainfo-left ul, .course-card.style2 .course-metainfo .course-metainfo-left ul, .course-card.style3 .course-metainfo .course-metainfo-left ul, .course-rating, .blog-author-wrap .blog-author, .event-countdown .event-cd .countdown, .hero-wrap.style3 .hero-item-wrap, .about-wrap.style2, .course-card .course-metainfo, .tab-content.course-tab-content .lecture-item, .promo-banner-wrap, .blog-author-wrap, .discount-wrap .discount-item-wrap, .header-wrap .header-top .header-top-right, .header-wrap .header-bottom .header-menu-wrap, .mobile-bar-wrap, .team-member .team-member-img .social-profile {
   display: -webkit-box;
   display: -ms-flexbox;
