@@ -4,7 +4,7 @@ include "header.php";
 <div class="page-wrapper">
     <?php include "includes/navbar.php"; ?>
 
-    <section class="breadcrumb-wrap bg-f tu-br-faq">
+    <section class="breadcrumb-wrap bg-f" style="background-image: url('assets/images/tu/library-stacks.jpg');">
         <div class="overlay op-6 bg-black"></div>
         <div class="container">
             <div class="row">
