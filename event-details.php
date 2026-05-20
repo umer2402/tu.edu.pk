@@ -4,7 +4,7 @@ include "header.php";
 <div class="page-wrapper">
     <?php include "includes/navbar.php"; ?>
 
-    <section class="breadcrumb-wrap bg-f br-bg-5">
+    <section class="breadcrumb-wrap bg-f tu-br-sports">
         <div class="overlay op-6 bg-black"></div>
         <div class="container">
             <div class="row">

@@ -48,6 +48,46 @@
   background-image: url(../img/breadcrumb/breadcrumb-6.jpg);
 }
 
+.tu-br-about {
+  background-image: url(../images/tu/campus-front.jpg);
+}
+
+.tu-br-admissions {
+  background-image: url(../images/tu/academic-block.jpg);
+}
+
+.tu-br-faculties {
+  background-image: url(../images/tu/library-reading.jpg);
+}
+
+.tu-br-administration {
+  background-image: url(../images/tu/admin-block.jpg);
+}
+
+.tu-br-events {
+  background-image: url(../images/tu/campus-life.jpg);
+}
+
+.tu-br-sports {
+  background-image: url(../images/tu/campus-life.jpg);
+}
+
+.tu-br-contact {
+  background-image: url(../images/tu/academic-block.jpg);
+}
+
+.tu-br-faq {
+  background-image: url(../images/tu/library-stacks.jpg);
+}
+
+.tu-br-privacy {
+  background-image: url(../images/tu/library-reading.jpg);
+}
+
+.tu-br-terms {
+  background-image: url(../images/tu/jamia-masjid.jpg);
+}
+
 .breadcrumb-wrap {
   position: relative;
   height: 100%;
